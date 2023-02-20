@@ -1,6 +1,6 @@
-# Project Report**
+# Project Report
 
-# Applied Time Series Analysis**
+# Applied Time Series Analysis
 
 ![](media/image1.jpg){width="3.3046609798775153in"
 height="2.0298501749781277in"}
